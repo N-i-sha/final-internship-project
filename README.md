@@ -2,7 +2,9 @@
 
 **Final Year MCA Project**  
 A full-stack Retrieval-Augmented Generation (RAG) chatbot that answers college-related questions using a local vector database and the Groq LLM API.
-
+---
+## 🎥 Demo Video
+[Click here to watch the demo](https://youtu.be/CMKJFrtquKo?si=4suNRNaL8ml9h1RV)
 ---
 
 ## 🏗️ Tech Stack
